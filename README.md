@@ -1,3 +1,4 @@
 # dev-ops-aula-05
 Primeiro commit  
-Trazendo algo
+Trazendo algo  
+Fazendo Merge
